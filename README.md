@@ -1,14 +1,14 @@
 # Hi👋, this is JOTHSHANA S M !
 
-##### Welcome to my corner of the digital world! I'm eager to invite you on a journey through my projects, skills, and passions. Whether you're a fellow enthusiast in programming or simply curious about the tech realm, there's something here for everyone. So, let's explore the fascinating world of code and creation!
+Welcome to my corner of the digital world! I'm eager to invite you on a journey through my projects, skills, and passions. Whether you're a fellow enthusiast in programming or simply curious about the tech realm, there's something here for everyone. So, let's explore the fascinating world of code and creation!
 
 
 ## About Me
-##### I'm passionate about web development and programming, with proficiency in C, Java, HTML, CSS, JavaScript, React, Node.js, and Express.
+I'm passionate about web development and programming, with proficiency in C, Java, HTML, CSS, JavaScript, React, Node.js, and Express.
 
 
 ## Education
-##### I pursued my Bachelor of Computer Science and Engineering at Bannari Amman Institute of Technology in Sathyamangalam. Prior to that, I completed my higher secondary education at Vidya Nethrra Matriculation Higher Secondary School, where I achieved excellent scores of 83% in SSLC and 92% in HSC. These educational experiences have equipped me with a strong foundation in both academic and practical aspects of computer science and engineering.
+I pursued my Bachelor of Computer Science and Engineering at Bannari Amman Institute of Technology in Sathyamangalam. Prior to that, I completed my higher secondary education at Vidya Nethrra Matriculation Higher Secondary School, where I achieved excellent scores of 83% in SSLC and 92% in HSC. These educational experiences have equipped me with a strong foundation in both academic and practical aspects of computer science and engineering.
 
 
 ## Expertise 
@@ -22,19 +22,19 @@
 
 ## Career Goals
 
-##### In my journey through the tech landscape, I'm driven by a dual ambition: to explore the breadth of computer science and to share those insights with my friends. Alongside this, I aim to secure a position in a reputable company, where I can apply my skills and continue to grow in my career.
+In my journey through the tech landscape, I'm driven by a dual ambition: to explore the breadth of computer science and to share those insights with my friends. Alongside this, I aim to secure a position in a reputable company, where I can apply my skills and continue to grow in my career.
 
 
 ## Projects
 
-##### To explore my projects, visit my [GitHub repositories](https://github.com/JOTHSHANA).
+To explore my projects, visit my [GitHub repositories](https://github.com/JOTHSHANA).
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jothshana&show_icons=true&locale=en&layout=compact" alt="jothshana" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jothshana&" alt="jothshana" /></p>
 <br>
 
 ## Connect with Me
 
-##### I'm excited to connect with fellow tech enthusiasts, professionals, and anyone interested in the world of computer science. Whether you're looking to collaborate on projects, share insights, or just have a conversation about technology, feel free to reach out. Let's explore, learn, and grow together in this dynamic field!
+I'm excited to connect with fellow tech enthusiasts, professionals, and anyone interested in the world of computer science. Whether you're looking to collaborate on projects, share insights, or just have a conversation about technology, feel free to reach out. Let's explore, learn, and grow together in this dynamic field!
 
 <p align="left"> <a href="https://linkedin.com/in/jothshana-s-m-466867272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jothshana-s-m-466867272/" height="30" width="40" /></a> <a href="https://instagram.com/_.minion_710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.minion_710" height="30" width="40" /></a> <a href="https://www.codechef.com/users/jothshanacs22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jothshanacs22" height="30" width="40" /></a> <a href="https://www.hackerrank.com/jothshana_cs22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jothshana_cs22" height="30" width="40" /></a> <a href="https://www.leetcode.com/jothshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jothshana" height="30" width="40" /></a> <a href="https://www.hackerearth.com/@jothshana.cs22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@jothshana.cs22" height="30" width="40" /></a> </p> 
 
