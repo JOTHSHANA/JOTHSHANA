@@ -8,7 +8,7 @@ I'm passionate about web development and programming, with proficiency in C, Jav
 
 
 ## Education
-I pursued my Bachelor of Computer Science and Engineering at Bannari Amman Institute of Technology in Sathyamangalam. Prior to that, I completed my higher secondary education at Vidya Nethrra Matriculation Higher Secondary School, where I achieved excellent scores of 83% in SSLC and 92% in HSC. These educational experiences have equipped me with a strong foundation in both academic and practical aspects of computer science and engineering.
+I am pursuing my Bachelor of Computer Science and Engineering at Bannari Amman Institute of Technology in Sathyamangalam. Prior to that, I completed my higher secondary education at Vidya Nethrra Matriculation Higher Secondary School, where I achieved excellent scores of 83% in SSLC and 92% in HSC. These educational experiences have equipped me with a strong foundation in both academic and practical aspects of computer science and engineering.
 
 
 ## Expertise 
